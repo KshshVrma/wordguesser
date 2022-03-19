@@ -2,7 +2,7 @@ import random
 
 import time
 # def hangman():{
-word= random.choice(["pineapple","cholera","tiger","jaguar","deadly","alphaomega","kashish","hitler","build","earthly","blitzkreig"])
+word= random.choice(["pineapple","cholera","tiger","jaguar","deadly","alphaomega","kashish","hitler","build","earthly","blitzkreig","economy","finance","educate","efficient","supportive","elderly","flight","folk","flame","frustration","garbage","gather","gentle","global","hilarious","intelligence","knife","longevity","momument","nonsense","nobody","turmeric","utilize","reconfigure","wheat","yellowish"])
 # }
 name=input("enter your name ")
 print(f"hi!! {name}")
